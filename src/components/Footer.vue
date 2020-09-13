@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        Developed with <span>❤</span> by <a href="https://rohit.nl" target="_blank">Rohit</a>. 
+        Developed with <img src="@/assets/vue.png" alt="vuejs" width="14" height="14"/> <img src="@/assets/netlify.png" alt="vuejs" width="14" height="14"/> by <a href="https://rohit.nl" target="_blank">Rohit</a>. 
     </div>
 </template>
 
@@ -16,6 +16,7 @@ export default {
         color: #283747;
         text-align: center;
         padding: 1px;
+        font-size: 18px;
     }
 
     .footer span {
