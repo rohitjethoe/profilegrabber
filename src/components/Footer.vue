@@ -1,6 +1,13 @@
 <template>
     <div class="footer">
-        Developed with <img src="@/assets/vue.png" alt="vuejs" width="14" height="14"/> <img src="@/assets/netlify.png" alt="vuejs" width="14" height="14"/> by <a href="https://rohit.nl" target="_blank">Rohit</a>. 
+        Developed with 
+        <a href="https://vuejs.org/" target="_blank" rel="noopener" noreferrer> 
+            <img src="@/assets/vue.png" alt="vuejs" width="14" height="14"/> 
+        </a>
+        <a href="https://www.netlify.com/" target="_blank" rel="noopener" noreferrer>
+            <img src="@/assets/netlify.png" alt="vuejs" width="14" height="14"/> 
+        </a>
+        by <a href="https://rohit.nl" target="_blank">Rohit</a>. 
     </div>
 </template>
 
