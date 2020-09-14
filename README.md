@@ -1,24 +1,20 @@
-# profilegrabberapp
+# 📽 Profile Grabber
+Profile Grabber is a instagram profile picture and posts downloader.
 
-## Project setup
-```
-npm install
-```
+### :zap: Live Version
+The live version of profilegrabber is hosted on netlify and you can find it at <br>
+[https://profilegrabber.netlify.app](https://profilegrabber.netlify.app)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### :star: Features
+- Download profile pictures
+- Share the pictures with url
+- Download posts of a user
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+### :rocket: Getting Started
+If you have git installed: 
+```sh
+$ git clone https://github.com/rohitjethoe/profilegrabber.git
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### :copyright: License
+[MIT License](http://opensource.org/licenses/MIT)
